@@ -1,1 +1,2 @@
-# AppMobileLectia7_NumePrenume
+# ALectia 7
+Crearea proiectului cu grafica bidimensionala
