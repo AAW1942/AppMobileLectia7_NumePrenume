@@ -1,2 +1,2 @@
-# ALectia 7
+# Lectia 7
 Crearea proiectului cu grafica bidimensionala
